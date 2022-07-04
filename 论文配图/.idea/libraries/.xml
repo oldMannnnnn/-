@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="参考文献">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/参考文献/翻译原文.zip!/" />
+      <root url="jar://$PROJECT_DIR$/参考文献/翻译译文.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

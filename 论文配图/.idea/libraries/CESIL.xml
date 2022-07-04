@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CESIL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/毕设算法/CESIL.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
